@@ -13,4 +13,4 @@ Prototype made in Fritzing
 --------------------------
 --------------------------
 
-[[/fritzing/prototype.png]]
+.. image:: https://raw.github.com/bluszcz/basketpinfo/master/fritzing/prototype.png
