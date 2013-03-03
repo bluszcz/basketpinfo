@@ -7,7 +7,13 @@ Distributed under the BSD License see accompanying file license.txt.
 
 Description
 ==============
-Arduino + Raspberry PI HQ center
+Arduino + Raspberry PI headquarter monitoring center.
+
+Used components:
+ * Raspberry PI Model 5
+ * Arduino UNO
+ * DHT 11 Temperature and humidity sensor
+ * OLED Display 128x32 SPI
 
 Screenshots
 ===========
